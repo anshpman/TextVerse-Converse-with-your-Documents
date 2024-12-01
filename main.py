@@ -31,8 +31,8 @@ def get_text_chunks(text):
 
 
 def get_vectorstore(text_chunks):
-    key = "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"
-    #key = "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"
+    key = "xxxxxxxxxxx"
+    #key = "xxxxxxxxxxxx"
     embeddings = OpenAIEmbeddings(api_key=key)
     #embeddings = HuggingFaceInstructEmbeddings(model_name="hkunlp/instructor-xl", api_key=key)
 
