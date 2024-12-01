@@ -1,4 +1,5 @@
-# ReFaceLab: Transformative Identity Simulation Tool
+# TextVerse: Converse with your Documents
+
 TextVerse is an innovative web application designed to revolutionize how users interact with textual documents. By integrating natural language processing and a user-friendly interface, it facilitates real-time, conversational engagement with uploaded PDFs, enhancing comprehension and accessibility.
 
 
